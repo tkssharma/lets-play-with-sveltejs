@@ -31,3 +31,14 @@ Additional Parts
 -   https://codesandbox.io/s/svelte-routing-forked-vqolss
 -   https://codesandbox.io/s/svelte-pokemon-api-forked-wrle0b
 -   https://codesandbox.io/s/svelte-todo-app-forked-xbnwtd
+
+## Code Sandbox Links Covering advance concepts
+
+* using store with svelte js
+* SPA in Svelte js
+* http requests using svelte js
+* working with forms svelte js
+* using special elements
+* Looking deeper into reactivity  
+* deploying app
+
