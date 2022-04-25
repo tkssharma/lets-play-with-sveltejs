@@ -19,3 +19,15 @@ Additional Parts
 - Auth using Auth0 
 - Integration with BE APIs 
 
+## Code Sandbox Links Covering 
+
+* Base Syntax and core features 
+* Conditionals and loops
+* Looking more into Reactivity 
+* Diver deeper into components 
+
+-   https://codesandbox.io/s/dry-haze-mfwwdb
+-   https://codesandbox.io/s/rough-https-civqn4
+-   https://codesandbox.io/s/svelte-routing-forked-vqolss
+-   https://codesandbox.io/s/svelte-pokemon-api-forked-wrle0b
+-   https://codesandbox.io/s/svelte-todo-app-forked-xbnwtd
