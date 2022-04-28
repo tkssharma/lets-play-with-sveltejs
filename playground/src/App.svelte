@@ -68,7 +68,8 @@ label,input,textarea{width: 100%}
 	</p>
 	{:else}
 	{#each books as book}
-		<Book bookTitle={book.title} 
+		<Book 
+    bookTitle={book.title} 
 		bookPages={book.pages} 
 		bookDescription={book.description}
 		on:buy={purchaseBook}
