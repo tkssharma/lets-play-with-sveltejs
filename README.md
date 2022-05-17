@@ -49,3 +49,5 @@ Additional Parts
 - https://codesandbox.io/s/svelte-form-component-forked-gf6e2q async await 
 - https://codesandbox.io/s/svelte-store-ex-forked-rgf9pu?file=/stores.js store example starter 
 - https://codesandbox.io/s/svelte-form-component-forked-mxv89g?file=/App.svelte cart example
+- https://codesandbox.io/s/kind-gates-ig57ot readable store
+- https://codesandbox.io/s/kind-gates-ig57ot slots 
