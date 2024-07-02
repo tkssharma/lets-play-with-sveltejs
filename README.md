@@ -1,6 +1,10 @@
 # lets-play-with-sveltejs
 
-I am preparing Video series on Svelte JS for developers 
+Libk https://www.youtube.com/watch?v=1rKRarJJFrY&list=PLIGDNOJWiL1-7zCgdR7MKuho-tPC6Ra6C
+
+![](https://i.ytimg.com/vi/1rKRarJJFrY/maxresdefault.jpg)
+
+I am preparing a Video series on Svelte JS for developers 
 
 - Base Syntax and core features 
 - Conditionals and loops
